@@ -23,7 +23,7 @@
   --shadow:0 2px 14px rgba(0,0,0,.4);
   --bg-img:url("https://aka.doubaocdn.com/s/uW74wiDldQ");}}}
 *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-html,body{height:100%}
+html，body{height:100%}
 body{
   font-family:"Songti SC","STSong","Noto Serif SC","SimSun",serif;
   background:var(--paper); color:var(--ink);
